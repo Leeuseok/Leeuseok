@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=auto&type=venom&text=Korea&fontcolor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?color=7FFFD4&type=venom&text=Lee&fontColor=ffffff)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
