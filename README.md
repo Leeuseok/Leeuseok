@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&text=Lee)
-
-# Korean Developer
+![header](https://capsule-render.vercel.app/api?color=auto&type=venom&text=Korea&fontcolor=#FFFFFF)
 
 ## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
