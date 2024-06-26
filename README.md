@@ -1,14 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?color=7FFFD4&type=venom&text=Lee&fontColor=ffffff)
 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row; justify-content:center;">
+<div style="display:flex; justify-content:center;">
     <a href="mailto:dntjr4646@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
     <a href="https://www.instagram.com/2rain_stone">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
     </a>
-
 </div><br>
 
 ## 🔨 Tool 🔨
@@ -63,10 +62,5 @@
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white">
     </div>
-    <!-- Communication -->
-    <p><strong>Communication</strong></p>
-    <div>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white">
-    </div>
-</div><br>
 </div>
+
