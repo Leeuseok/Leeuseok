@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?color=7FFFD4&type=venom&text=Lee&fontColor=ffffff)
 
 ## 📞 Contact 📞
-<div style="display:flex; flex-direction:row;">
+<div style="display:flex; flex-direction:row; justify-content:center;">
     <a href="mailto:dntjr4646@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
@@ -12,7 +12,7 @@
 </div><br>
 
 ## 🔨 Tool 🔨
-<div style="display:flex; flex-direction:column; align-items:flex-start;">
+<div style="display:flex; flex-direction:column; align-items:center;">
     <!-- Frontend -->
     <p><strong>Frontend</strong></p>
     <div>
