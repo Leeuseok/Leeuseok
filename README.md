@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?color=7FFFD4&type=venom&text=Lee&fontColor=ffffff)
 
 ## 📞 Contact 📞
-<div style="display: flex; justify-content: center;">
+<div style="display: flex;  flex-direction: column; align-items: center;">
     <a href="mailto:dntjr4646@gmail.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
     </a>
