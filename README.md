@@ -58,6 +58,7 @@
     <p><strong>Server</strong></p>
     <div style="display: flex; justify-content: center;">
         <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
+        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
     </div>
     <!-- Development Tools -->
     <p><strong>Development Tools</strong></p>
