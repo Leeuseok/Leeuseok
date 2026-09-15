@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="420" viewBox="0 0 960 420" role="img" aria-labelledby="title desc">
+<title id="title">Leeuseok — Web, Mobile, Backend</title>
+<desc id="desc">Developer profile. TypeScript and Java. Building across web, mobile and backend.</desc>
+<defs><pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#343b36"/></pattern></defs>
+<rect width="960" height="420" rx="24" fill="#111613"/>
+<rect x="1" y="1" width="958" height="418" rx="23" fill="url(#grid)" stroke="#303a32"/>
+<g font-family="Arial, Helvetica, sans-serif">
+<rect x="36" y="30" width="158" height="28" rx="14" fill="#263322"/>
+<circle cx="51" cy="44" r="4" fill="#c4f582"/>
+<text x="64" y="48" font-size="11" font-weight="700" letter-spacing="1.6" fill="#c4f582">DEVELOPER LOG</text>
+<text x="923" y="48" text-anchor="end" font-family="monospace" font-size="12" fill="#9ca89f">LEEUSEOK / GITHUB</text>
+<text x="32" y="168" font-size="100" font-weight="700" letter-spacing="-6" fill="#f1f5ee">Leeuseok<tspan fill="#c4f582">.</tspan></text>
+<text x="39" y="209" font-size="19" fill="#aebbb0" letter-spacing=".3">From interface to API. Building the whole experience.</text>
+<g transform="translate(765 100)" fill="none" stroke="#c4f582" stroke-width="2">
+<rect width="112" height="72" rx="12" transform="rotate(-12 56 36)"/>
+<rect x="25" y="-8" width="112" height="72" rx="12" fill="#172018" transform="rotate(8 81 28)"/>
+<path d="m66 16-14 12 14 12m27-24 14 12-14 12m-13-28-7 32"/>
+</g>
+<g transform="translate(36 259)">
+<rect width="284" height="124" rx="16" fill="#c4f582"/>
+<text x="20" y="29" font-family="monospace" font-size="11" fill="#435937">01 / WEB</text>
+<text x="20" y="66" font-size="25" font-weight="700" fill="#172211">Interfaces.</text>
+<text x="20" y="97" font-size="13" fill="#35472b">TypeScript / React / Vite</text>
+<path d="M246 25h12v12m0-12-15 15" stroke="#172211" stroke-width="2" fill="none"/>
+</g>
+<g transform="translate(338 259)">
+<rect width="284" height="124" rx="16" fill="#1d2520" stroke="#354139"/>
+<text x="20" y="29" font-family="monospace" font-size="11" fill="#9eaea2">02 / MOBILE</text>
+<text x="20" y="66" font-size="25" font-weight="700" fill="#f1f5ee">Experiences.</text>
+<text x="20" y="97" font-size="13" fill="#aebbb0">React Native / Expo / Zustand</text>
+<path d="M246 25h12v12m0-12-15 15" stroke="#c4f582" stroke-width="2" fill="none"/>
+</g>
+<g transform="translate(640 259)">
+<rect width="284" height="124" rx="16" fill="#1d2520" stroke="#354139"/>
+<text x="20" y="29" font-family="monospace" font-size="11" fill="#9eaea2">03 / BACKEND</text>
+<text x="20" y="66" font-size="25" font-weight="700" fill="#f1f5ee">Foundations.</text>
+<text x="20" y="97" font-size="13" fill="#aebbb0">Java / Spring Boot / PostgreSQL</text>
+<path d="M246 25h12v12m0-12-15 15" stroke="#c4f582" stroke-width="2" fill="none"/>
+</g>
+</g>
+</svg>
