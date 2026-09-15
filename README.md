@@ -1,4 +1,4 @@
-<img src="./assets/profile-header.svg" width="100%" alt="Leeuseok — 웹, 모바일, 백엔드를 연결하는 개발자" />
+<img src="./assets/profile-header.svg" width="960" alt="Leeuseok — 웹, 모바일, 백엔드를 연결하는 개발자" />
 
 <br>
 
@@ -13,12 +13,12 @@ TypeScript로 웹과 모바일을, Java와 Spring Boot로 백엔드를 개발합
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="480" valign="top">
 <h3>Web → Mobile</h3>
 <p>React 기반 서비스와 관리자 화면,<br>React Native · Expo 모바일 앱을 만듭니다.</p>
 <sub>FOCUS &nbsp; TypeScript · Zustand · TanStack Query</sub>
 </td>
-<td width="50%" valign="top">
+<td width="480" valign="top">
 <h3>API → Data</h3>
 <p>Java 21 · Spring Boot 기반 API와<br>데이터 모델, 인증, 캐싱을 다룹니다.</p>
 <sub>FOCUS &nbsp; JPA · PostgreSQL · Redis</sub>
@@ -82,13 +82,13 @@ TypeScript로 웹과 모바일을, Java와 Spring Boot로 백엔드를 개발합
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="480" valign="top">
 <sub>MOBILE APPLICATION</sub>
 <h3><a href="https://github.com/Leeuseok/classin">classin ↗</a></h3>
 <p>위치 기반 출석 인증 앱</p>
 <sub>Dart</sub>
 </td>
-<td width="50%" valign="top">
+<td width="480" valign="top">
 <sub>COMPUTER VISION</sub>
 <h3><a href="https://github.com/Leeuseok/Face-Recognition">Face Recognition ↗</a></h3>
 <p>얼굴 인식과 아두이노 동작 연동</p>
