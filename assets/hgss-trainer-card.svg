@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="280" viewBox="0 0 1000 280" role="img" aria-label="Johto inspired trainer field card showing a connected web, API and mobile journey">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#fff9e9" />
+      <stop offset="100%" stop-color="#f4eedb" />
+    </linearGradient>
+    <style>
+      .outline { stroke:#314255; stroke-width:5; }
+      .label { font-family:monospace; font-weight:700; letter-spacing:1px; }
+      .title { font-family:'Trebuchet MS', Verdana, sans-serif; font-weight:900; }
+    </style>
+  </defs>
+  <rect x="5" y="5" width="990" height="270" rx="22" fill="#d9bf5b" />
+  <rect x="15" y="15" width="970" height="250" rx="18" fill="url(#paper)" class="outline" />
+  <path d="M33 15h934a18 18 0 0 1 18 18v39H15V33a18 18 0 0 1 18-18z" fill="#d8e8fa" />
+  <path d="M15 72h970" stroke="#314255" stroke-width="5" />
+  <text x="43" y="54" font-size="22" fill="#415368" class="label">TRAINER FIELD CARD</text>
+  <text x="950" y="53" text-anchor="end" font-size="15" fill="#647381" class="label">JOHTO REGION / FIELD NOTES 01</text>
+  <rect x="38" y="95" width="225" height="142" rx="13" fill="#d8f0da" class="outline" />
+  <path d="M48 211h205v16H48z" fill="#8fbf78" />
+  <!-- matching pixel adventure trainer portrait -->
+  <g transform="translate(73 101) scale(.92)" shape-rendering="crispEdges">
+    <rect x="20" y="111" width="125" height="7" rx="3" fill="#77aa68" opacity=".55" />
+    <rect x="25" y="50" width="28" height="51" rx="5" fill="#d9ad43" stroke="#293645" stroke-width="4" />
+    <path d="M53 88h29l-3 25H58zM82 88h28l15 23-20 4-21-20z" fill="#3f5574" stroke="#293645" stroke-width="4" />
+    <path d="M55 110h25v9H49zM105 108h25v10h-31z" fill="#edf1f4" stroke="#293645" stroke-width="4" />
+    <path d="M53 49l28-9 29 11 4 43H50z" fill="#f5f7f9" stroke="#293645" stroke-width="4" />
+    <path d="M53 49l17-6 11 51H50zM108 50l-16-7-11 51h33z" fill="#4d78a8" />
+    <path d="M78 44h9v50h-9z" fill="#e9b949" />
+    <path d="M53 52L36 65 26 91l13 5 16-24 12-8z" fill="#4d78a8" stroke="#293645" stroke-width="4" />
+    <rect x="24" y="88" width="17" height="14" rx="5" fill="#f1bf98" stroke="#293645" stroke-width="4" />
+    <path d="M107 52l18 13 14 10-8 12-23-13-13-11z" fill="#4d78a8" stroke="#293645" stroke-width="4" />
+    <rect x="130" y="73" width="15" height="15" rx="5" fill="#f1bf98" stroke="#293645" stroke-width="4" />
+    <g transform="translate(153 78)">
+      <circle r="13" fill="#fff" stroke="#293645" stroke-width="4" />
+      <path d="M-13 0a13 13 0 0 1 26 0z" fill="#e85f55" />
+      <path d="M-13 0h26" stroke="#293645" stroke-width="4" />
+      <circle r="4" fill="#fff" stroke="#293645" stroke-width="3" />
+    </g>
+    <rect x="62" y="18" width="42" height="33" rx="8" fill="#f1bf98" stroke="#293645" stroke-width="4" />
+    <path d="M60 24h11v-9h33v13l-9-6-5 9-8-8-8 9-14 1z" fill="#344156" />
+    <rect x="69" y="31" width="5" height="6" fill="#293645" />
+    <rect x="92" y="31" width="5" height="6" fill="#293645" />
+    <path d="M78 43h12" stroke="#b85e55" stroke-width="3" />
+    <path d="M56 18V9l13-8h28l12 9v10H63z" fill="#e85f55" stroke="#293645" stroke-width="4" />
+    <path d="M81 2h16l12 8v4H81z" fill="#fff4de" />
+    <rect x="50" y="16" width="37" height="7" rx="3" fill="#e85f55" stroke="#293645" stroke-width="4" />
+  </g>
+  <path d="M52 202l15-15 15 15v9H52zM214 201l14-14 14 14v10h-28z" fill="#6ca34f" />
+  <text x="300" y="118" font-size="16" fill="#7b8997" class="label">CURRENT QUEST</text>
+  <text x="300" y="158" font-size="34" fill="#314255" class="title">Connect the whole journey</text>
+  <text x="300" y="190" font-size="18" fill="#647381" class="label">FROM A POLISHED SCREEN TO A RELIABLE API</text>
+  <g class="outline">
+    <rect x="300" y="207" width="150" height="36" rx="10" fill="#d8e8fa" />
+    <rect x="520" y="207" width="150" height="36" rx="10" fill="#f6e6ae" />
+    <rect x="740" y="207" width="150" height="36" rx="10" fill="#d8f0da" />
+  </g>
+  <g font-size="16" fill="#415368" text-anchor="middle" class="label">
+    <text x="375" y="231">WEB</text>
+    <text x="595" y="231">API</text>
+    <text x="815" y="231">MOBILE</text>
+  </g>
+  <g fill="none" stroke="#718196" stroke-width="4" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M463 225h42m-10-10 10 10-10 10" />
+    <path d="M683 225h42m-10-10 10 10-10 10" />
+  </g>
+  <g transform="translate(933 108)">
+    <circle cx="0" cy="0" r="20" fill="#fff" stroke="#314255" stroke-width="4" />
+    <path d="M-20 0a20 20 0 0 1 40 0z" fill="#e98b73" />
+    <path d="M-20 0h40" stroke="#314255" stroke-width="4" />
+    <circle cx="0" cy="0" r="6" fill="#fff" stroke="#314255" stroke-width="4" />
+  </g>
+</svg>

@@ -1,186 +1,128 @@
 <div align="center">
 
-```text
-████████████████████████████████████████████
-█                                          █
-█            POKéMON TRAINER DATA          █
-█                                          █
-█              2RAIN_STONE                 █
-█         WEB · MOBILE · BACKEND           █
-█                                          █
-████████████████████████████████████████████
-```
+<img src="./assets/hgss-header.svg" width="100%" alt="2rain_stone의 포켓몬 게임 스타일 개발자 프로필" />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&duration=2500&pause=1200&color=0F380F&center=true&vCenter=true&width=700&lines=A+wild+developer+appeared!;TRAINER%3A+2RAIN_STONE;Building+web%2C+mobile+and+API+services" alt="Typing intro" />
+# 2rain_stone의 개발 도감
 
-[![GitHub](https://img.shields.io/badge/GITHUB-Leeuseok-9BBC0F?style=for-the-badge&logo=github&logoColor=0F380F&labelColor=8BAC0F)](https://github.com/Leeuseok)
-[![Email](https://img.shields.io/badge/POKéGEAR-dntjr4646%40gmail.com-9BBC0F?style=for-the-badge&logo=gmail&logoColor=0F380F&labelColor=8BAC0F)](mailto:dntjr4646@gmail.com)
-[![Instagram](https://img.shields.io/badge/LINK-Instagram-9BBC0F?style=for-the-badge&logo=instagram&logoColor=0F380F&labelColor=8BAC0F)](https://www.instagram.com/2rain_stone)
+### 📡 Pokégear Online
+
+[![GitHub](https://img.shields.io/badge/GitHub-Leeuseok-E5C56C?style=flat-square&logo=github&logoColor=3C4657&labelColor=F6E8B1)](https://github.com/Leeuseok)
+[![Email](https://img.shields.io/badge/Pok%C3%A9gear-Email-CFD6E5?style=flat-square&logo=gmail&logoColor=3C4657&labelColor=EEF2F8)](mailto:dntjr4646@gmail.com)
+[![Instagram](https://img.shields.io/badge/Link-Instagram-AED9F9?style=flat-square&logo=instagram&logoColor=3C4657&labelColor=EAF6FF)](https://www.instagram.com/2rain_stone)
+[![Repositories](https://img.shields.io/badge/PC-Repositories-B8E0A5?style=flat-square&logo=github&logoColor=3C4657&labelColor=EAF7E2)](https://github.com/Leeuseok?tab=repositories)
+
+> **트레이너** `2rain_stone` · **클래스** `Full-Stack Developer` · **지역** `South Korea`
+
+`화면에서 서버까지, 하나의 경험으로 연결하는 개발자`
 
 </div>
 
 ---
 
-## START MENU
-
-```text
-┌──────────────────────────────────────────┐
-│ > NEW GAME                               │
-│   TRAINER CARD                           │
-│   PARTY                                  │
-│   POKéDEX                                │
-│   BADGES                                 │
-│   SAVE                                   │
-└──────────────────────────────────────────┘
-```
-
-## TRAINER CARD
-
-```text
-┌──────────────────────────────────────────┐
-│ TRAINER NAME : 2rain_stone               │
-│ REAL NAME    : Leeuseok                  │
-│ CLASS        : Full-Stack Developer      │
-│ REGION       : South Korea               │
-│ SPECIALTY    : Web / Mobile / API        │
-│ STATUS       : In Adventure              │
-└──────────────────────────────────────────┘
-```
-
-> 화면부터 API까지, 하나의 서비스로 연결합니다.  
-> TypeScript로 웹과 모바일을, Java와 Spring Boot로 백엔드를 개발합니다.
-
----
-
-## PARTY
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-```text
-┌────────────────────────────┐
-│ PARTY SLOT 01              │
-│ NAME : TypeScript          │
-│ TYPE : ELECTRIC            │
-│ MOVE : Type Safe Attack    │
-└────────────────────────────┘
-```
-
-```text
-┌────────────────────────────┐
-│ PARTY SLOT 02              │
-│ NAME : React               │
-│ TYPE : PSYCHIC             │
-│ MOVE : Component Beam      │
-└────────────────────────────┘
-```
-
-```text
-┌────────────────────────────┐
-│ PARTY SLOT 03              │
-│ NAME : React Native / Expo │
-│ TYPE : FLYING              │
-│ MOVE : Cross-Platform Run  │
-└────────────────────────────┘
-```
-
-</td>
-<td width="50%" valign="top">
-
-```text
-┌────────────────────────────┐
-│ PARTY SLOT 04              │
-│ NAME : Java / Spring Boot  │
-│ TYPE : FIRE                │
-│ MOVE : API Blast           │
-└────────────────────────────┘
-```
-
-```text
-┌────────────────────────────┐
-│ PARTY SLOT 05              │
-│ NAME : PostgreSQL / JPA    │
-│ TYPE : WATER               │
-│ MOVE : Query Wave          │
-└────────────────────────────┘
-```
-
-```text
-┌────────────────────────────┐
-│ PARTY SLOT 06              │
-│ NAME : Redis / Query Tools │
-│ TYPE : GRASS               │
-│ MOVE : Cache Seed          │
-└────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
----
-
-## POKéDEX
-
-```text
-No.001  WEB → MOBILE
-React 기반 서비스와 관리자 화면,
-React Native · Expo 모바일 앱을 만듭니다.
-
-No.002  API → DATA
-Java 21 · Spring Boot 기반 API와
-인증, 데이터 모델링, 캐싱을 다룹니다.
-
-No.003  DEV STYLE
-실무에서 바로 쓰이는 구조,
-읽기 쉬운 코드, 연결되는 사용자 경험을 지향합니다.
-```
-
----
-
-## BADGES
-
-```text
-[01] FRONTEND BADGE   : React / TypeScript
-[02] MOBILE BADGE     : React Native / Expo
-[03] BACKEND BADGE    : Java / Spring Boot
-[04] DATABASE BADGE   : PostgreSQL / JPA
-[05] CACHE BADGE      : Redis
-[06] STATE BADGE      : Zustand / TanStack Query
-```
-
----
-
-## TRAINER RECORD
+## 🪪 트레이너 카드
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Leeuseok&show_icons=true&hide_border=true&bg_color=9BBC0F&title_color=0F380F&text_color=0F380F&icon_color=306230&border_color=0F380F&rank_icon=github" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeuseok&layout=compact&hide_border=true&bg_color=9BBC0F&title_color=0F380F&text_color=0F380F&border_color=0F380F" alt="Top languages" />
+  <img src="./assets/hgss-trainer-card.svg" width="100%" alt="웹, API, 모바일을 연결하는 트레이너 카드" />
+</div>
+
+| 능력치 | 현재 레벨 |
+|:--|:--|
+| **주 활동 지역** | Web · Mobile · Backend |
+| **주력 언어** | TypeScript · JavaScript · Java 21 |
+| **프론트엔드** | React · React Native · Expo |
+| **백엔드** | Spring Boot · JPA |
+| **데이터 / 상태** | PostgreSQL · Redis · Zustand · TanStack Query |
+| **특성** | 화면과 API를 함께 바라보며 흐름 전체를 설계합니다 |
+
+---
+
+## 🎒 현재 파티
+
+<div align="center">
+  <img src="./assets/hgss-party-box.svg" width="100%" alt="여섯 슬롯으로 구성된 개발 기술 파티" />
+</div>
+
+| 슬롯 | 파트너 | 타입 · 기술 | 파티에서의 역할 |
+|:--:|:--|:--|:--|
+| `01` | **TypeScript** | ⚡ Electric · `Type Guard` | 안정적인 인터페이스와 타입 설계 |
+| `02` | **React** | 🔮 Psychic · `Component Beam` | 재사용 가능한 웹 UI 구축 |
+| `03` | **React Native · Expo** | 🪽 Flying · `Cross-platform Dash` | iOS와 Android 경험 확장 |
+| `04` | **Java · Spring Boot** | 🔥 Fire · `API Blast` | 견고한 서버와 비즈니스 로직 구현 |
+| `05` | **PostgreSQL · JPA** | 💧 Water · `Query Wave` | 데이터 모델링과 영속성 관리 |
+| `06` | **Redis · Zustand · TanStack Query** | ✨ Mixed · `Cache Sync` | 서버·클라이언트 상태와 캐시 동기화 |
+
+---
+
+## 📖 개발 도감
+
+<details open>
+<summary><b>No.001 — Web & Mobile</b></summary>
+<br />
+React로 명확하고 재사용 가능한 인터페이스를 만들고,<br />
+React Native와 Expo로 그 경험을 모바일까지 자연스럽게 확장합니다.
+</details>
+
+<details>
+<summary><b>No.002 — API & Data</b></summary>
+<br />
+Java 21과 Spring Boot로 API를 설계합니다.<br />
+인증, 데이터 모델링, 캐싱까지 서비스의 흐름을 함께 고민합니다.
+</details>
+
+<details>
+<summary><b>No.003 — Development Style</b></summary>
+<br />
+읽기 쉽고 변경하기 편한 코드를 지향합니다.<br />
+화면과 서버를 따로 떼어 보기보다 사용자의 전체 여정을 연결합니다.
+</details>
+
+---
+
+## 🗺️ 모험 지도
+
+| 루트 | 체크포인트 | 상태 |
+|:--|:--|:--:|
+| **새로운 마을 → 무궁시티** | 새로운 기술을 익히고 작은 프로젝트에 적용하기 | `진행 중` |
+| **도라지시티 → 금빛시티** | 직관적인 UI를 만들고 API와 안정적으로 연결하기 | `진행 중` |
+| **인주시티 → 담청시티** | 읽기 쉽고 유지보수하기 좋은 구조로 다듬기 | `진행 중` |
+| **검은먹시티 → 석영고원** | 실제 문제를 해결하며 완성도 높은 서비스로 성장시키기 | `도전 중` |
+
+---
+
+## 🏆 명예의 전당
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Leeuseok&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFF7E1&amp;title_color=A57B1F&amp;text_color=4A5568&amp;icon_color=D3A63F&amp;rank_icon=github" alt="Leeuseok의 GitHub 통계" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leeuseok&amp;layout=compact&amp;hide_border=true&amp;bg_color=F4F7FC&amp;title_color=7B8796&amp;text_color=4A5568" alt="Leeuseok의 주요 언어" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leeuseok&bg_color=9BBC0F&color=0F380F&line=306230&point=0F380F&area=true&hide_border=true" width="100%" alt="Contribution graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leeuseok&amp;bg_color=FFFDF5&amp;color=6B7280&amp;line=D6B04B&amp;point=94A3B8&amp;area=true&amp;hide_border=true" width="100%" alt="Leeuseok의 GitHub 활동 그래프" />
 </div>
 
 ---
 
-## SAVE LOG
+## 🎖️ 획득한 배지
 
-```text
-┌──────────────────────────────────────────┐
-│ PLAYER : 2rain_stone                     │
-│ GOAL   : Build connected services        │
-│ AREA   : Web / Mobile / Backend          │
-│ STATUS : Adventure continues...          │
-│                                          │
-│ > SAVE GAME?                             │
-│   YES                                    │
-└──────────────────────────────────────────┘
-```
+| 배지 | 성장 기록 |
+|:--|:--|
+| 🌪️ **Zephyr Badge** | 프론트엔드 기본기와 컴포넌트 설계 |
+| 🐝 **Hive Badge** | 모바일 환경에 맞춘 경험 확장 |
+| ⚪ **Plain Badge** | 실용적인 UI와 사용자 흐름 고민 |
+| 🌫️ **Fog Badge** | 프론트엔드와 API 연결 |
+| ⚙️ **Mineral Badge** | 데이터 모델링과 영속성 관리 |
+| 🐉 **Rising Badge** | 꾸준히 배우고 개선하는 습관 |
+
+---
+
+## 💬 Pokégear 메시지
 
 <div align="center">
 
-### THANKS FOR VISITING MY POKéDEX.
+> 좋은 트레이너는 각 파트너의 강점을 연결하고,<br />
+> 좋은 개발자는 기술을 연결해 하나의 경험을 만듭니다.
+
+**방문해 주셔서 감사합니다!**<br />
+<sub>다음 체크포인트를 향해 계속 진화하는 중입니다. ✨</sub>
 
 </div>

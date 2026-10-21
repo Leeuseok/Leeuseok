@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="270" viewBox="0 0 1200 270" role="img" aria-label="HGSS inspired six-slot Pokemon party box">
+  <defs>
+    <style>
+      .outline { stroke:#314255; stroke-width:5; }
+      .label { font-family:monospace; font-weight:700; }
+      .title { font-family:'Trebuchet MS', Verdana, sans-serif; font-weight:900; }
+    </style>
+  </defs>
+  <rect width="1200" height="270" rx="22" fill="#d0d9e8" />
+  <rect x="15" y="15" width="1170" height="240" rx="18" fill="#fff8e7" class="outline" />
+  <rect x="34" y="31" width="1132" height="48" rx="10" fill="#d8e8fa" class="outline" />
+  <text x="56" y="63" font-size="27" fill="#415368" class="title">POKEMON PARTY</text>
+  <text x="1142" y="61" text-anchor="end" font-size="16" fill="#647381" class="label">6 PARTNERS / READY FOR ADVENTURE</text>
+  <g class="outline">
+    <rect x="34" y="94" width="174" height="137" rx="12" fill="#fffefb" />
+    <rect x="224" y="94" width="174" height="137" rx="12" fill="#fffefb" />
+    <rect x="414" y="94" width="174" height="137" rx="12" fill="#fffefb" />
+    <rect x="604" y="94" width="174" height="137" rx="12" fill="#fffefb" />
+    <rect x="794" y="94" width="174" height="137" rx="12" fill="#fffefb" />
+    <rect x="984" y="94" width="174" height="137" rx="12" fill="#fffefb" />
+  </g>
+  <g fill="#fff" stroke="#314255" stroke-width="4">
+    <circle cx="121" cy="145" r="29" />
+    <circle cx="311" cy="145" r="29" />
+    <circle cx="501" cy="145" r="29" />
+    <circle cx="691" cy="145" r="29" />
+    <circle cx="881" cy="145" r="29" />
+    <circle cx="1071" cy="145" r="29" />
+  </g>
+  <g>
+    <path d="M92 145a29 29 0 0 1 58 0z" fill="#e98b73" />
+    <path d="M282 145a29 29 0 0 1 58 0z" fill="#d9bf5b" />
+    <path d="M472 145a29 29 0 0 1 58 0z" fill="#8fbf78" />
+    <path d="M662 145a29 29 0 0 1 58 0z" fill="#8ecbff" />
+    <path d="M852 145a29 29 0 0 1 58 0z" fill="#b8a4d8" />
+    <path d="M1042 145a29 29 0 0 1 58 0z" fill="#a9c9c6" />
+  </g>
+  <g fill="none" stroke="#314255" stroke-width="4">
+    <path d="M92 145h58M282 145h58M472 145h58M662 145h58M852 145h58M1042 145h58" />
+  </g>
+  <g fill="#fff" stroke="#314255" stroke-width="4">
+    <circle cx="121" cy="145" r="8" />
+    <circle cx="311" cy="145" r="8" />
+    <circle cx="501" cy="145" r="8" />
+    <circle cx="691" cy="145" r="8" />
+    <circle cx="881" cy="145" r="8" />
+    <circle cx="1071" cy="145" r="8" />
+  </g>
+  <g font-size="18" fill="#415368" text-anchor="middle" class="label">
+    <text x="121" y="207">WEB</text>
+    <text x="311" y="207">UI</text>
+    <text x="501" y="207">MOBILE</text>
+    <text x="691" y="207">API</text>
+    <text x="881" y="207">DATA</text>
+    <text x="1071" y="207">STATE</text>
+  </g>
+</svg>
