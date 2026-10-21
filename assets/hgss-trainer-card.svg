@@ -48,8 +48,8 @@
   </g>
   <path d="M52 202l15-15 15 15v9H52zM214 201l14-14 14 14v10h-28z" fill="#6ca34f" />
   <text x="300" y="118" font-size="16" fill="#7b8997" class="label">CURRENT QUEST</text>
-  <text x="300" y="158" font-size="34" fill="#314255" class="title">Connect the whole journey</text>
-  <text x="300" y="190" font-size="18" fill="#647381" class="label">FROM A POLISHED SCREEN TO A RELIABLE API</text>
+  <text x="300" y="158" font-size="34" fill="#314255" class="title">Automate the whole journey</text>
+  <text x="300" y="190" font-size="18" fill="#647381" class="label">FROM IDEA TO API TO SCHEDULED WORKFLOW</text>
   <g class="outline">
     <rect x="300" y="207" width="150" height="36" rx="10" fill="#d8e8fa" />
     <rect x="520" y="207" width="150" height="36" rx="10" fill="#f6e6ae" />

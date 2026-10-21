@@ -102,7 +102,7 @@
   <text x="150" y="110" font-size="24" fill="#5a6d80" class="small">POKEMON HG / SS INSPIRED TRAINER PROFILE</text>
   <text x="470" y="184" font-size="54" fill="#2e3a4c" class="title">2RAIN_STONE</text>
   <text x="470" y="224" font-size="24" fill="#738394" class="title">WEB / MOBILE / BACKEND DEVELOPER</text>
-  <text x="470" y="254" font-size="18" fill="#5e7280" class="small">Traveling through React, Spring Boot, and mobile app development.</text>
+  <text x="470" y="254" font-size="18" fill="#5e7280" class="small">Building with Next.js, Expo, APIs, and Python automation.</text>
   <!-- HG/SS bars -->
   <g>
     <rect x="470" y="92" width="170" height="18" rx="9" fill="#d9bf5b" stroke="#a88421" stroke-width="3" />
