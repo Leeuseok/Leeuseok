@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="310" viewBox="0 0 1100 310" role="img" aria-label="Developer trainer 2rain stone pixel style header">
+<rect width="1100" height="310" fill="#f7f4dc"/>
+<rect x="12" y="12" width="1076" height="286" rx="12" fill="#fffdf0" stroke="#1b2733" stroke-width="8"/>
+<rect x="28" y="28" width="1044" height="40" fill="#df3e39"/>
+<rect x="28" y="244" width="1044" height="35" fill="#1e3e58"/>
+<g transform="translate(70 102)">
+ <circle cx="72" cy="72" r="70" fill="#fff" stroke="#1b2733" stroke-width="9"/>
+ <path d="M2 72 A70 70 0 0 1 142 72 Z" fill="#e64b44"/>
+ <path d="M2 72 H142" stroke="#1b2733" stroke-width="10"/>
+ <circle cx="72" cy="72" r="23" fill="#fff" stroke="#1b2733" stroke-width="9"/>
+ <circle cx="72" cy="72" r="9" fill="#d3dedf"/>
+</g>
+<text x="290" y="119" font-family="monospace" font-size="28" font-weight="bold" fill="#38536b">WELCOME TO MY DEV WORLD!</text>
+<text x="286" y="184" font-family="monospace" font-size="54" font-weight="900" fill="#192e40">2RAIN_STONE</text>
+<text x="291" y="222" font-family="monospace" font-size="21" font-weight="bold" fill="#495f69">FULL-STACK DEVELOPER  /  LV. UP EVERY DAY</text>
+<g fill="#f6d052" stroke="#1b2733" stroke-width="3"><path d="M960 100l-21 44 20 0-12 40 62-59-28 0 17-25z"/></g>
+<g fill="#fff7ee"><rect x="45" y="39" width="11" height="11"/><rect x="64" y="39" width="11" height="11"/><rect x="83" y="39" width="11" height="11"/></g>
+<text x="51" y="268" font-family="monospace" font-size="16" font-weight="bold" fill="#fff">PRESS START  •  SELECT YOUR QUEST  •  KEEP EVOLVING</text>
+</svg>

@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="350" viewBox="0 0 460 350" role="img" aria-label="Pokemon style developer trainer card">
+<rect width="460" height="350" rx="14" fill="#e5c94a"/>
+<rect x="13" y="13" width="434" height="324" rx="9" fill="#f9efbe" stroke="#2b313c" stroke-width="6"/>
+<rect x="29" y="29" width="402" height="55" rx="5" fill="#d7433e"/>
+<text x="46" y="65" font-family="monospace" font-weight="bold" font-size="27" fill="#fff">TRAINER CARD</text>
+<rect x="40" y="105" width="170" height="174" rx="7" fill="#8ac1bd" stroke="#2b313c" stroke-width="5"/>
+<g fill="#273744"><rect x="100" y="138" width="51" height="17"/><rect x="82" y="155" width="85" height="16"/><rect x="91" y="171" width="69" height="26"/><rect x="70" y="202" width="106" height="17"/><rect x="59" y="219" width="128" height="49"/></g>
+<rect x="107" y="179" width="14" height="9" fill="#f6f1db"/><rect x="138" y="179" width="14" height="9" fill="#f6f1db"/>
+<rect x="103" y="223" width="41" height="12" fill="#d7433e"/>
+<g font-family="monospace" fill="#293744" font-weight="bold"><text x="231" y="137" font-size="18">NAME</text><text x="231" y="166" font-size="23">2RAIN_STONE</text><text x="231" y="209" font-size="18">CLASS</text><text x="231" y="235" font-size="19">DEVELOPER</text><text x="43" y="311" font-size="17">WEB / MOBILE / BACKEND</text></g>
+<circle cx="407" cy="300" r="16" fill="#fff" stroke="#2b313c" stroke-width="3"/><path d="M391 300a16 16 0 0 1 32 0z" fill="#d7433e"/><path d="M391 300h32" stroke="#2b313c" stroke-width="3"/><circle cx="407" cy="300" r="5" fill="#fff" stroke="#2b313c" stroke-width="3"/>
+</svg>
